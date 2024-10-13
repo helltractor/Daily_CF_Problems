@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF325B](https://codeforces.com/problemset/problem/325/B) | Calculate the number of games when there is $n$ players. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1007/solution/cf325b.md) |
-| 1900 | [CF865B](https://codeforces.com/problemset/problem/865/B) | Use greedy approach. If you order too many pizzas, adjust your solution. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1007/solution/cf865b.md) |
+| 1600 | [CF1082C](https://codeforces.com/problemset/problem/1082/C) | Iterate over the number of students participating in each group. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1012/solution/cf1082c.md) |
+| 2200 | [CF809B](https://codeforces.com/problemset/problem/809/B) | Find one of the answers first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1012/solution/cf809b.md) |
