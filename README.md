@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF1062C](https://codeforces.com/problemset/problem/1062/C) | For each segment, find a optimal way to operate. Which variables determine the answer? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1102/solution/cf1062c.md) |
-| 2200 | [CF868D](https://codeforces.com/problemset/problem/868/D) | When considering substrings of length $k$, the concatenation of strings does not generate a lot of different ones. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1102/solution/cf868d.md) |
+| 1800 | [CF234F](https://codeforces.com/problemset/problem/234/F) | It's easy to find the DP traits in the problem. Just decide what status you should include. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1210/solution/cf234f.md) |
+| 1900 | [CF257D](https://codeforces.com/problemset/problem/257/D) | Start from the right. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1210/solution/cf257d.md) |
